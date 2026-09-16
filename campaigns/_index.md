@@ -2,7 +2,7 @@
 
 | Campaign ID | Description | Status | Active? | Created |
 |-------------|-------------|--------|---------|---------|
-| *(none yet)* | | | | |
+| 2026-09-madrid-barber-shops | Barber shops in Madrid with good reviews but weak/no website | Stage 01 complete – ready for sourcing | **Yes** | 2026-09-16 |
 
 ## How to use
 
