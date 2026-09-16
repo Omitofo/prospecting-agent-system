@@ -1,49 +1,37 @@
-# ICP – Madrid Mechanics (Car + Bike)
+# ICP – Madrid Mechanics (Car + Bike) – Strict Digital Gap Version
 
 **Campaign:** 2026-09-madrid-mechanics  
-**Date:** 2026-09-16
+**Date:** 2026-09-16 (updated with strict rule)
 
 ## Summary
 
-Independent car workshops and bike/moto mechanics across the Comunidad de Madrid that already have strong Google ratings and review volume (proof of demand) but whose online presence is missing or weak enough that a modern landing page would clearly add value.
+Independent car and bike/moto workshops in the Comunidad de Madrid with strong Google reviews but **no website or truly minimal digital presence**.
 
-## Who we target
+## Core Rule (must follow in every stage)
 
-- **Car mechanics / talleres mecánicos**
-- **Bike & motorcycle mechanics / talleres de bicicletas y motos**
-- Independent or small operators (not large national chains with mature digital presence)
+Only keep prospects where:
+- No dedicated website appears in Google, **or**
+- The only digital presence is Google Maps + client photos / basic Facebook, **or**
+- Any existing page is clearly broken, ugly, extremely outdated, or non-functional.
 
-Tag every prospect as Car / Bike-Moto / Mixed.
+If a usable modern website already exists → **out**.
+
+## Who
+- Car mechanics
+- Bike / moto mechanics
+- Small independent operators
 
 ## Positive signals
-
-- Google rating preferably ≥ 4.5 with solid review count (use professional judgment on volume)
-- Active, trusted local workshop feel
-- Digital presence is:
-  - Completely missing, or
-  - Broken, very outdated, ugly, slow, not mobile-friendly, poor SEO, weak service/contact clarity
+- High rating (≥ 4.5 preferred) + solid review count
+- Digital gap as defined above
 
 ## Disqualifiers
+- Decent dedicated website already exists
+- Large chains
+- Low review volume
 
-- Already has a modern, professional website with good photos, clear services, easy contact, and decent local SEO
-- Large chains / franchises that have already invested significantly in digital
-- Very low review volume (no real demand proof)
-- Appears inactive or closed
-
-## Geographic scope
-
-Comunidad de Madrid (Madrid city + surrounding towns).
-
-## Sourcing method
-
-Google Maps + Google search → high ratings first → inspect actual website quality. Use judgment on whether we can still add meaningful value.
+## Geography
+Comunidad de Madrid
 
 ## Outreach
-
-Channel: Email  
-Style: Value-first and observational  
-Goal: ≥ 50% of contacted prospects reply asking for a quotation.
-
-## Scoring emphasis
-
-Weight **Digital Gap** highly. Strong reviews + missing or clearly weak site = highest priority.
+Email, value-first. Goal ≥ 50% reply asking for quotation.
