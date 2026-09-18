@@ -1,23 +1,25 @@
-# Stage 03 – Qualify & Score
+# Stage 03 – Qualify (Evidence-Based Digital Opportunity)
 
 ## Inputs
 
 - Layer 3: `../../_config/scoring.md`
+- Layer 3: campaign ICP / CONTEXT
 - Layer 4: `../02_source_prospects/output/` (candidates)
-- Layer 4: campaign ICP (`stages/01_define_icp/output/icp.md` or campaign CONTEXT)
 
 ## Process
 
-Score each candidate using the dimensions in `scoring.md` (or campaign-adjusted weights).
+For each candidate evaluate the dimensions in `_config/scoring.md`:
 
-For every prospect produce:
-- Numeric scores + short justification
-- Overall weighted score
-- Recommendation: Shortlist / Maybe / Skip
+Economic Value · Reputation · Demand · Digital Gap · Social Presence · Contactability · Conversion Opportunity
 
-Produce a clean ranked shortlist the human can approve or edit.
+**Store the evidence**, not just a number.
+
+Produce:
+- A scored table or individual records with visible evidence
+- A shortlist of the strongest Digital Opportunities
+- Clear “Why this is interesting” notes
 
 ## Outputs
 
 - `scored_candidates.md` → `output/`
-- `shortlist.md` → `output/` (only the ones above threshold, ready for enrichment)
+- `shortlist.md` → `output/` (only those that pass the campaign’s opportunity threshold)

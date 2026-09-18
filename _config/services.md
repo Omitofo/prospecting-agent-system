@@ -1,12 +1,19 @@
-# Services We Offer (Context for Outreach)
+# Services Context (for outreach framing)
 
-Primary focus of this system: **software development agency** specializing in:
+Primary offer focus of this system: **focused landing pages** that turn existing attention (Google, reviews, social) into clearer conversion paths.
 
-- Modern landing pages that convert local search traffic
-- Simple, fast web applications (booking, menus, portfolios, client portals, etc.)
-- Website redesigns that match the quality of the real-world business
-- Lightweight integrations (Google reviews, booking systems, basic CRM, etc.)
+Typical conversion path we help create:
 
-We are **not** trying to sell large custom enterprise platforms in the first conversation.
+```
+Google / Social attention
+        ↓
+Focused Landing Page
+  – services
+  – reviews & trust signals
+  – photos / before-after
+  – clear CTA (call / quote / WhatsApp / booking)
+        ↓
+Call · Quote request · WhatsApp · Booking
+```
 
-When preparing outreach, the agent should keep the offer small and relevant to the observed gap (usually "your online presence does not yet match the quality of the service you actually deliver").
+We are not primarily selling large custom platforms in the first conversation. We are selling a practical way to close the gap between strong real-world reputation and underperforming digital conversion.

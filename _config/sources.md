@@ -1,31 +1,24 @@
-# Preferred Prospecting Sources & Methods
+# Preferred Prospecting Sources & Methods (Digital Opportunity)
 
-## Primary (high signal)
+## Primary
 
 1. **Google Maps / Google Business Profile**
-   - Filter by rating ≥ 4.5
-   - Look at review count and recency
-   - Then manually or programmatically check the linked website quality
+   - Start with high rating + meaningful review volume
+   - Then inspect digital presence (website field, quality of any site, social links)
 
-2. **Google search operators**
-   - `\"4.5\" OR \"4.6\" OR \"4.7\" OR \"4.8\" OR \"4.9\" OR \"5.0\" site:maps.google.com` combined with niche keywords
-   - Or direct Maps searches + website inspection
+2. **Google search** for the niche + city + rating signals
 
-3. **Local directories & review sites** that surface rating data
+3. **Social platforms** (Facebook, Instagram) as enrichment and as a positive signal when a dedicated website is weak or missing
 
-## Secondary
+## What to capture early
 
-- Industry-specific directories
-- Chamber of commerce lists
-- Recent "best of" local lists
-- Social proof (Instagram / Facebook pages with strong engagement but weak website)
+- Business name, location, category
+- Rating + approximate review count + recency signals
+- Website URL (or “none”)
+- Quick digital-presence classification (see spectrum in CONTEXT.md)
+- Any obvious social profiles
+- One-sentence note on why it looks like a Digital Opportunity
 
-## What the agent should do when sourcing
+## Quality over quantity
 
-- Prefer quality over quantity
-- Capture: business name, location, rating, review count, website URL (or "none"), Google Maps link, quick notes on the digital gap
-- Write structured output (markdown table or individual files) so later stages can consume it cleanly
-
-## Tools the human / agent may use
-
-Web search, Google Maps browsing, simple website audits (mobile check, load speed impression, clarity of CTA, presence of booking/contact). No need for heavy scraping infrastructure in the core system — keep it practical and reviewable.
+Prefer fewer, higher-evidence candidates that a human can actually review and that clearly show both demand/reputation **and** a digital gap.

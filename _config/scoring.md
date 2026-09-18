@@ -1,23 +1,31 @@
-# Qualification & Scoring Criteria
+# Qualification Dimensions – Evidence-Based (Digital Opportunity)
 
-Use these as the default scoring dimensions. Campaigns may adjust weights.
+Do **not** produce a single mysterious score. Produce visible evidence for each dimension, then a transparent opportunity assessment.
 
-## Scoring Dimensions (0–10 each)
+## Dimensions
 
-| Dimension              | What high score means                                      | Weight |
-|------------------------|------------------------------------------------------------|--------|
-| Demand Proof           | High rating + solid review volume                          | 25%    |
-| Digital Gap            | Website missing / outdated / poor UX / no clear CTA        | 30%    |
-| Fit to our services    | Clear need for landing page or simple web app              | 20%    |
-| Accessibility          | Contact info findable, appears reachable                   | 15%    |
-| Timing / Signals       | Recent reviews, expansion signs, hiring, etc.              | 10%    |
+| Dimension | What it captures | Typical evidence |
+|-----------|------------------|------------------|
+| **Economic Value** | How valuable is one customer/job? | Service type, typical ticket size, local market |
+| **Reputation** | Strength of customer satisfaction signals | Rating, review volume, recency, themes |
+| **Demand** | Evidence people actively use/search for this | Review volume + recency, Maps activity |
+| **Digital Gap** | How weak/missing is the conversion experience? | No site / outdated / poor CTA / mobile / social-only |
+| **Social Presence** | Existing online attention beyond the website | Facebook, Instagram, etc. |
+| **Contactability** | Can we reach a decision maker? | Phone, email, form, social |
+| **Conversion Opportunity** | Could a focused landing page improve the path to call/quote/booking? | Gap analysis vs. ideal landing page |
 
-## Thresholds
+## Output style (required)
 
-- **Shortlist (pursue)** : total weighted score ≥ 7.0
-- **Maybe / nurture**    : 5.0 – 6.9
-- **Skip for now**       : < 5.0
+For every shortlisted prospect produce something like:
 
-## Notes for the agent
+```
+Economic Value: High (roofing / typical job value)
+Reputation: 4.9 ★ / 187 reviews – customers repeatedly praise workmanship and communication
+Demand: Strong – consistent recent reviews
+Digital Presence: Google-profile-only + active Instagram, no dedicated website
+Social: Instagram found, Facebook found
+Conversion Opportunity: High – clear path from attention → dedicated quote/landing page is missing
+Why this is interesting: Strong social proof and demand already exist; a focused landing page could turn more of that attention into direct leads.
+```
 
-When scoring, always write a short justification next to the numbers so the human can override easily. Prefer being slightly conservative.
+The evidence must remain visible so a human (or salesperson) can immediately understand why the business is worth contacting.

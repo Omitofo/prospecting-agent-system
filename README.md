@@ -1,57 +1,46 @@
 # Prospecting Agent System
 
-**Agentic prospecting infrastructure** built on [Interpretable Context Methodology (ICM)](https://arxiv.org/abs/2603.16021).
+**Agentic prospecting infrastructure** built on Interpretable Context Methodology (ICM).
 
 Folder structure *is* the agent. Numbered stages, plain markdown contracts, human review gates, and a clean knowledge base.
 
-Designed for software development agencies (landing pages, web apps, etc.) but fully agnostic — retarget any niche by editing config + campaign context.
+## Core Thesis (evolved)
 
-## Core Principles
+> Don’t prospect businesses because they lack a website.  
+> Prospect businesses because they have something worth protecting/growing — demand, reputation, customers, high-value services — and their digital presence appears to be underperforming relative to that opportunity.
 
-- **One agent + filesystem** instead of multi-agent frameworks
-- Stages are sequential and reviewable
-- Source of truth = the files themselves
-- Multi-campaign isolation so different ICPs never mix
-- Value-first outreach (no hard selling)
+We look for **Digital Opportunities**: strong evidence of demand + trust + high customer value, combined with a meaningful digital-presence / conversion gap.
 
-## Quick Start
-
-1. Talk to your agent (Grok / Claude / etc.) inside this repo.
-2. "Start a new campaign for [niche]" → creates `campaigns/YYYY-MM-description/`
-3. "Run stage 02" or "Source prospects for the current campaign"
-4. Review & edit anything in `output/` before the next stage.
-5. All data lives under the campaign folder → clean, navigable, permanent.
+“No website” is one form of digital weakness. Outdated, slow, confusing, or conversion-poor websites are equally interesting.
 
 ## Architecture
 
 ```
 prospecting-agent-system/
-├── AGENT.md                 # Layer 0 – agent identity & global rules
-├── CONTEXT.md               # Layer 1 – workspace routing
-├── _config/                 # Layer 3 – durable factory settings
-├── shared/                  # Reusable templates & reference
-├── stages/                  # Stage contracts (the "how")
-├── campaigns/               # All real work & knowledge (the "what")
-│   ├── _index.md
-│   └── <campaign-id>/
-│       ├── CONTEXT.md
-│       ├── status.md
-│       ├── knowledge/
-│       └── stages/*/output/
+├── AGENT.md / CONTEXT.md     # Global agent rules + routing
+├── _config/                  # Durable factory settings (ICP templates, scoring, voice…)
+├── shared/                   # Reusable templates
+├── stages/                   # Stage contracts (reusable how-to)
+├── campaigns/                # Isolated campaign instances (the actual work)
 └── setup/
 ```
 
-## Typical Flow
+Campaign isolation is preserved. Each campaign has its own CONTEXT, ICP, knowledge, outputs, and status.
 
-1. **Define / refine ICP** (stage 01)
-2. **Source candidates** (stage 02) – Google Maps, reviews, directories…
-3. **Qualify & score** (stage 03)
-4. **Enrich** (stage 04) – website audit, pain points, contacts
-5. **Outreach prep** (stage 05) – personalized value-first emails + demo notes
-6. **Pipeline** (stage 06) – tracking, follow-ups, status
+## Typical flow
 
-You can jump to any stage, run partial work, or ask the agent to "look at the current campaign and suggest next actions".
+1. (Optional) Market / Niche Discovery  
+2. Define / refine ICP for the campaign  
+3. Source candidates (demand + reputation signals first)  
+4. Qualify with multi-dimensional, evidence-based scoring  
+5. Enrich (website audit, social, reviews, contacts)  
+6. Outreach prep (value-first, evidence-backed)  
+7. Pipeline tracking
+
+## Active experimental campaign
+
+See `campaigns/2026-09-local-service-digital-opportunity/` for the first controlled experiment under the new thesis.
 
 ## License
 
-MIT (same spirit as the ICM protocol).
+MIT
